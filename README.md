@@ -14,7 +14,7 @@ Professional bot for selling VPN access via Telegram with Outline VPN integratio
 - **Удобный интерфейс**: интерактивные кнопки, форматированные сообщения
 
 ## ⚙️ Технологический стек
-- Python 3.10+
+- Python 3.8+
 - Telethon (библиотека для Telegram MTProto API)
 - Outline VPN API
 - ConfigParser для управления настройками
@@ -143,7 +143,7 @@ Professional bot for selling VPN access via Telegram with Outline VPN integratio
 ## 🚀 Installation and launch
 
 ### 1. Prerequisites
-- Python 3.10 or later
+- Python 3.8 or later
 - Telegram account with admin rights
 - Access to Outline VPN API
 
