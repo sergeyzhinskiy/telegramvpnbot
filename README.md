@@ -29,7 +29,7 @@ Professional bot for selling VPN access via Telegram with Outline VPN integratio
 
 ### 2. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/telegram-vpn-bot.git
+git clone https://github.com/sergeyzhinskiy/telegramvpnbot.git
 cd telegram-vpn-bot
 ```
 **3. Установка зависимостей**
@@ -149,7 +149,7 @@ Professional bot for selling VPN access via Telegram with Outline VPN integratio
 
 ### 2. Clone the repository
 ```bash
-git clone https://github.com/yourusername/telegram-vpn-bot.git
+git clone https://github.com/sergeyzhinskiy/telegramvpnbot.git
 cd telegram-vpn-bot
 ```
 **3. Install dependencies**
