@@ -23,7 +23,7 @@ Professional bot for selling VPN access via Telegram with Outline VPN integratio
 ## 🚀 Установка и запуск
 
 ### 1. Предварительные требования
-- Python 3.10 или новее
+- Python 3.8 или новее
 - Аккаунт Telegram с правами администратора
 - Доступ к API Outline VPN
 
@@ -134,7 +134,7 @@ Professional bot for selling VPN access via Telegram with Outline VPN integratio
 - **User-friendly interface**: interactive buttons, formatted messages
 
 ## ⚙️ Tech stack
-- Python 3.10+
+- Python 3.8+
 - Telethon (library for Telegram MTProto API)
 - Outline VPN API
 - ConfigParser for settings management
